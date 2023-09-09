@@ -1,4 +1,4 @@
-# lunch_line_estimator
+# Lunch Line Wait Time Estimator
 This is a prototype for class project of AC215: Advanced Practical Data Science of Harvard University
 
 Person detection is done through YOLOv3
